@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-color: #E1C603;
+    background-color: #000000;
 
 }
 #Id
@@ -20,12 +20,12 @@ h1{
   <!---
 define a altura do título principal
 --->
-    color: #C308A7;
+    color: #FF8C00;
         
   <!---
 define a cor do título principal
 --->
-  background-color:  #EDC100;
+  background-color:  #FF8C00;
  <!---
 define a cor de fundo do título principal
 --->
@@ -37,7 +37,7 @@ define a altura do título principal
  
 }
 h2{
-    Color:   #D02C0F
+    Color:   #FF8C00
  <!---
 define a cor do segundo título
 --->
